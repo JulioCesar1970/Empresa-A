@@ -1,0 +1,21 @@
+body {
+  background-color: aquamarine;
+  width: 70%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  border-bottom: 1px solid blue;
+}
+
+h2{
+  text-align: center;
+  color: darkblue;
+}
+
+p {
+  text-align: justify;
+  font-size: 1.1em;
+}
