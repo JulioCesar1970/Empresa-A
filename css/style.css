@@ -10,7 +10,7 @@ h1 {
   border-bottom: 1px solid blue;
 }
 
-h2{
+h2 {
   text-align: center;
   color: darkblue;
 }
@@ -18,4 +18,21 @@ h2{
 p {
   text-align: justify;
   font-size: 1.1em;
+}
+
+#centrado p {
+  text-align: center;
+}
+
+#saludo {
+  margin-left: 400px;
+}
+
+#pie p {
+  text-align: center;
+  font-size: small;
+  font-weight: bold;
+  margin-top: 220px;
+  border-bottom: 1px solid darkblue;
+  padding: 5px;
 }
